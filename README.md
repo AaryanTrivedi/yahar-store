@@ -29,7 +29,7 @@ delete <key>
 
 ## Future Improvements
 
-- Implement RESP-stype protocol
+- Implement RESP-style protocol
 - Add persistent storage
 - Implement Custom CLI client
 - Improve Error Handling
